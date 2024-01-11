@@ -1,2 +1,0 @@
-# Gauntlet
-First Completed Game
